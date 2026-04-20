@@ -233,4 +233,8 @@ Once `torch.cuda.is_available()` returns `True`, your GPU name appears in the ve
 
 ---
 
-*Next: Chapter 3 — First Practical GPU Usage. Moving tensors to GPU, writing a complete training loop, and monitoring what the GPU is actually doing.*
+## Navigation
+
+**[← Previous: Chapter 1 — Foundations](chapter-01-foundations.md)**
+
+**[➜ Next: Chapter 3 — First Practical GPU Usage](chapter-03-first-gpu-usage.md)** — Moving tensors to GPU, writing a complete training loop, and monitoring what the GPU is actually doing.

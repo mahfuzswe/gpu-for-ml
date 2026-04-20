@@ -378,4 +378,8 @@ For datasets that exceed RAM, memmap handles structured numerical data and Huggi
 
 ---
 
-*Next: Chapter 6 — GPU in the LLM Era. Why large language models push GPU limits in entirely new ways, and the practical toolkit for working with them: quantization, LoRA fine-tuning, and inference optimization.*
+## Navigation
+
+**[← Previous: Chapter 4 — Performance Optimization](chapter-04-performance-optimization.md)**
+
+**[➜ Next: Chapter 6 — GPU in the LLM Era](chapter-06-llm-era.md)** — Why large language models push GPU limits in entirely new ways, and the practical toolkit for working with them: quantization, LoRA/PEFT fine-tuning, and inference optimization.

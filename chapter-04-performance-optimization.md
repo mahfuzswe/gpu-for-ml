@@ -425,4 +425,8 @@ A training loop with all four techniques typically runs 3–8× faster than a na
 
 ---
 
-*Next: Chapter 5 — Deep Learning Workloads on GPU. Putting these techniques into full CNN and Transformer training pipelines, handling large datasets, and scaling to multiple GPUs.*
+## Navigation
+
+**[← Previous: Chapter 3 — First Practical GPU Usage](chapter-03-first-gpu-usage.md)**
+
+**[➜ Next: Chapter 5 — Deep Learning Workloads](chapter-05-deep-learning-workloads.md)** — Putting these techniques into full CNN and Transformer training pipelines, handling large datasets, and scaling to multiple GPUs.

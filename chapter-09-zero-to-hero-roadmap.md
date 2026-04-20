@@ -145,4 +145,8 @@ The mini-projects are where the deepest learning happens. Each one requires you 
 
 ---
 
-*Next: Chapter 10 — Appendix. Command cheat sheet, error reference, and curated resources.*
+## Navigation
+
+**[← Previous: Chapter 8 — Real-World Engineering](chapter-08-real-world-engineering.md)**
+
+**[➜ Next: Chapter 10 — Appendix](chapter-10-appendix.md)** — Command cheat sheet, error reference, and curated resources.

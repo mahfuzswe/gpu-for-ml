@@ -34,9 +34,9 @@ The analogy that holds up: a CPU is a few expert chefs who can each cook any dis
 │  │ Large Cache      │         │ ██ ██ ██ ██ ██ ██ ██ ██  │ │
 │  │ Complex Control  │         │ ██ ██ ██ ██ ██ ██ ██ ██  │ │
 │  └──────────────────┘         │ ██ ██ ██ ██ ██ ██ ██ ██  │ │
-│                                └──────────────────────────┘ │
-│  Few powerful cores            Thousands of small cores     │
-│  Great at serial tasks         Great at parallel tasks      │
+│                               └──────────────────────────┘ │
+│  Few powerful cores            Thousands of small cores    │
+│  Great at serial tasks         Great at parallel tasks     │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -173,7 +173,7 @@ You access Tensor Cores implicitly. When you enable `torch.autocast` or use `tor
 │  1 operation per clock               │
 │                                      │
 │  Tensor Core:                        │
-│  D = A × B + C  (4×4 FP16 matrix)   │
+│  D = A × B + C  (4×4 FP16 matrix)    │
 │  64 FP16 multiply-adds per clock     │
 │                                      │
 │  Result: ~8–16x higher throughput    │
@@ -279,4 +279,6 @@ Consumer GPUs like the RTX 4090 are genuinely capable for research and fine-tuni
 
 ---
 
-*Next: Chapter 2 — Environment Setup. Installing CUDA, getting PyTorch running, and verifying the GPU actually works.*
+## Navigation
+
+**[➜ Next: Chapter 2 — Environment Setup](chapter-02-environment-setup.md)** — Installing CUDA, getting PyTorch running, and verifying the GPU actually works.

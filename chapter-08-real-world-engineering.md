@@ -255,4 +255,8 @@ The beginner mistakes are consistent across learners: forgotten `zero_grad()`, u
 
 ---
 
-*Next: Chapter 9 — Zero to Hero Roadmap. A concrete week-by-week learning path, the recommended tool stack, and mini-projects that build real GPU programming intuition.*
+## Navigation
+
+**[← Previous: Chapter 7 — Cloud and Remote GPU](chapter-07-cloud-and-remote-gpu.md)**
+
+**[➜ Next: Chapter 9 — Zero to Hero Roadmap](chapter-09-zero-to-hero-roadmap.md)** — A concrete week-by-week learning path, the recommended tool stack, and mini-projects that build real GPU programming intuition.

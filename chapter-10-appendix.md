@@ -230,4 +230,12 @@ When you hit an OOM error, work through this list in order. Each technique reduc
 
 ---
 
-*This is the end of the guide. The best next step is to open a terminal, pick a project from Chapter 9, and start building.*
+---
+
+## Navigation
+
+**[← Previous: Chapter 9 — Zero to Hero Roadmap](chapter-09-zero-to-hero-roadmap.md)**
+
+**[← Back to Chapter 1](chapter-01-foundations.md)** — Start from the beginning.
+
+This is the end of the guide. The best next step is to open a terminal, pick a project from Chapter 9, and start building.

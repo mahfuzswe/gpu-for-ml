@@ -347,4 +347,8 @@ For inference at scale, vLLM's PagedAttention is the practical standard. For off
 
 ---
 
-*Next: Chapter 7 — Cloud and Remote GPU Usage. Using Colab, Kaggle, and paid cloud services effectively, plus remote machine workflows with SSH.*
+## Navigation
+
+**[← Previous: Chapter 5 — Deep Learning Workloads](chapter-05-deep-learning-workloads.md)**
+
+**[➜ Next: Chapter 7 — Cloud and Remote GPU](chapter-07-cloud-and-remote-gpu.md)** — Using Colab, Kaggle, and paid cloud services effectively, plus remote machine workflows with SSH.

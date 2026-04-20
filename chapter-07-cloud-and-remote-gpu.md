@@ -240,4 +240,8 @@ For any remote machine — cloud or institutional — the tmux, rsync, and SSH p
 
 ---
 
-*Next: Chapter 8 — Real-World Engineering Tips. Choosing the right GPU, decoding CUDA error messages, and the beginner mistakes that account for most debugging time.*
+## Navigation
+
+**[← Previous: Chapter 6 — GPU in the LLM Era](chapter-06-llm-era.md)**
+
+**[➜ Next: Chapter 8 — Real-World Engineering](chapter-08-real-world-engineering.md)** — Choosing the right GPU, decoding CUDA error messages, and the beginner mistakes that account for most debugging time.

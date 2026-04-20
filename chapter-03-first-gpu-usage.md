@@ -299,4 +299,8 @@ When debugging silent CPU fallback, check `tensor.device` and `next(model.parame
 
 ---
 
-*Next: Chapter 4 — Performance Optimization. Making your training loops faster: mixed precision, batch tuning, DataLoader configuration, gradient accumulation, and profiling.*
+## Navigation
+
+**[← Previous: Chapter 2 — Environment Setup](chapter-02-environment-setup.md)**
+
+**[➜ Next: Chapter 4 — Performance Optimization](chapter-04-performance-optimization.md)** — Making your training loops faster: mixed precision, batch tuning, DataLoader configuration, gradient accumulation, and profiling.
