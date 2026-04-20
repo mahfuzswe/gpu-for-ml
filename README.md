@@ -10,7 +10,7 @@
 
 ---
 
-<a href="https://github.com/mahfuzCVSwe/gpu-for-ml" target="_blank">
+<a href="https://github.com/mahfuzswe/gpu-for-ml" target="_blank">
   <img alt="GitHub Star" src="https://img.shields.io/badge/⭐%20If%20this%20helps%20you-Star%20the%20Repo-blue?style=for-the-badge&logo=github" />
 </a>
 
