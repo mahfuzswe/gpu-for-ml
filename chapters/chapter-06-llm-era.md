@@ -21,7 +21,7 @@ VRAM breakdown for a 7B model during inference (FP16, 4K context):
 │  ─────────────────────────────────────────  │
 │  Total:          ~20.0 GB                   │
 │                                             │
-│  → Minimum GPU: RTX 3090 / 4090 (24 GB)    │
+│  → Minimum GPU: RTX 3090 / 4090 (24 GB)     │
 └─────────────────────────────────────────────┘
 ```
 
